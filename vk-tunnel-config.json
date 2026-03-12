@@ -1,0 +1,9 @@
+{
+  "app_id": "54475984",
+  "tunnel": {
+    "port": 5173,
+    "host": "localhost",
+    "https": true
+  },
+  "insecure": 1
+}

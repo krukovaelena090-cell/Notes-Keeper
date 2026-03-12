@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Notes-Keeper/', 
+  base: '/Notes-Keeper/',
   server: {
     port: 5173,
     host: true
